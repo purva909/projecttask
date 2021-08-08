@@ -1,0 +1,318 @@
+ .navbar
+ {
+     background-color: #F0F3F4
+ }
+
+ .contain
+ {
+    
+    /*margin: 20px;*/
+    padding :100px;
+    left: 10%;
+    right: 10%;
+    top: 50%;
+    background-color:#F0F3F4;
+ }
+ .mbtn
+ {
+    padding:0.6em 3em;
+    border-radius: 20px;
+    color:#fff;
+    background-color:#F1C40F ;
+    font-size:1.1em;
+    border:0;
+    cursor:pointer;
+    margin:1em;
+ }
+ .about
+ {
+     padding-top: 20px;
+     text-align: center;
+     font-size: 20px;
+     background: #fff;
+     padding-bottom: 5px;
+     width:fit-content;
+     position: relative;
+
+
+ }
+.row
+{
+
+    font-size: 19px;
+}
+.far
+{
+    color:#F1C40F;
+}
+.fas
+{
+    color:#F1C40F;
+    /*padding-top: 2px;*/
+}
+.contain2
+{
+    background-color: black;
+    border-bottom: 5000px;
+    width:100%;
+    Height:fit-content;
+    position: absolute;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.john{
+    color: #fff;
+}
+
+.contain3
+{
+    text-align: center;
+    padding-top: 250px;
+}
+/*hovering the image */
+.container
+{
+    position: relative;
+    width: auto;
+}
+/*.image {
+    display:block;
+    width: 50%;
+    height: auto;
+  }
+  .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 10px;
+    right: 50px;
+    height: 100%;
+    width: 16%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #F1C40F;
+  }
+
+  .overlay2 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 50%;
+    height: 100%;
+    width: 16%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #F1C40F;
+  }
+
+  .container:hover .overlay2
+    {
+    opacity: 1;
+  }*/
+
+  .color
+  {
+    color: #fff;
+  }
+  
+   /*.container:hover .overlay
+    {
+    opacity: 1;
+  }
+
+    .text 
+    {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    }*/
+
+    /* TEam ACHIVEMENT CSS*/
+    .contain4
+{
+    background-color: black;
+    border-bottom: 5000px;
+    width:100%;
+    Height:fit-content;
+    position: absolute;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.contain5
+{
+    background-color:#F1C40F;
+    border-bottom: 50px;
+    width:100%;
+    Height:fit-content;
+    /*position: absolute;*/
+    text-align: left;
+    padding-bottom:10px;
+}
+.si{
+  padding-left: 500px;
+  padding-top: 10px;
+}
+.mbtn2
+ {
+    padding:0.5em 2em;
+    border-radius: 20px;
+    color:#F1C40F;
+    background-color:black ;
+    font-size:1.1em;
+    border:0;
+    cursor:pointer;
+    margin:1em;
+    padding-left:30px;
+}
+
+.contain6
+{
+    background-color: black;
+    border-bottom: 20px;
+    width:100%;
+    Height:fit-content;
+    position: absolute;
+    text-align: center;
+    padding-bottom: 20px;
+}
+/* hovring on  my imges try 2*/
+.A, .B, .C{
+  position:relative;  
+  
+  display: inline-block;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.image {
+  margin-top: 3%;
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  margin-bottom: 8%;
+}
+#overlayimgs{
+    text-align:center;
+    padding-top: 60px;
+}
+.overlay {
+  position:absolute;
+  top: 0.5em;
+  bottom: 10px;
+  left: 10px; 
+  right: 0;
+  height: 300px;
+  width: 300px;
+  opacity: 0;
+  transition: .5s ease;
+  background-color:#F1C40F;
+  
+}
+
+.A:hover .overlay{
+  opacity: 1;
+}
+.B:hover .overlay{
+    opacity: 1;
+}
+.C:hover .overlay{
+    opacity: 1;
+}
+.h3text, .h3text2, .h3text3{
+  font-family: "playfair display";
+  text-align: center;
+  color: black;
+  font-size: 24px;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding-top: 250px;
+}
+.text, .text2, .text3{
+  font-family: "playfair display";
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.c4
+{
+    background-color: white;
+    width:100%;
+    text-align: center;
+    padding-bottom:50px;
+}
+.c5
+{
+  text-align: center;
+  word-spacing: 5pc;
+ }
+
+/* 6 images  hovering */
+.C1, .C2, .C3{
+  position:relative;  
+  
+  display: inline-block;
+  padding-right: 10px;
+  padding-left: 100px;
+}
+.image1 {
+  margin-top: 3%;
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  margin-bottom: 8%;
+}
+.overlay1 {
+  position:absolute;
+  top: 0.5em;
+  bottom: 10px;
+  left: 100px; 
+  right: 0;
+  height: 300px;
+  width: 300px;
+  opacity: 0;
+  transition: .5s ease;
+  background-color:#F1C40F;
+  padding-left: 10px;
+  
+}
+
+.C1:hover .overlay1{
+  opacity: 1;
+}
+.C2:hover .overlay1{
+    opacity: 1;
+}
+.C3:hover .overlay1{
+    opacity: 1;
+}
+.fa-bars
+{
+  color: black;
+}
+.c7
+{
+    background-color: black;
+    border-bottom: 20px;
+    width:100%;
+    Height:fit-content;
+    position: absolute;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.c8
+{
+  padding-top: 5%;
+text-align:center;
+}
